@@ -81,6 +81,8 @@ Allows you to easily embed these images in a local browser or into a blog for ex
 This is an alternative to hosting your `asciicast` animation on the `asciinema` service   
 https://github.com/apnex/svg-term-cli
 
+![](asciicast/node.status.svg)
+
 #### demo magic
 This is the original demo magic script that actually executes keystrokes in a pre-scripted fashion  
 Useful for live demos where you want to avoid fat fingering  
@@ -103,5 +105,7 @@ useful for sharing public drawings that are hosted on github for example:
 `https://www.draw.io/?url=#<url>`
 
 ##### example
+![](diagrams/edge-design.svg)
+
 I put `edge-design.xml` file in my `diagrams` folder first - and reference it in the draw.io link  
 https://www.draw.io/?#Uhttps://raw.githubusercontent.com/apnex/hacking/master/diagrams/edge-design.xml
