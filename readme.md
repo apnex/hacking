@@ -59,11 +59,11 @@ vmw-cli get nsx-unified-appliance-2.3.0.0.0.10085405.ova
 ```
 
 #### nsx API scripts
-This repository contains a collection of CLI scripts written to interact with the NSX-T REST API
+This repository contains a collection of CLI scripts written to interact with the NSX-T REST API  
 https://github.com/apnex/nsx
 
 #### vcenter API scripts
-This repository contains a collection of CLI scripts written to interact with the vCenter REST API
+This repository contains a collection of CLI scripts written to interact with the vCenter REST API  
 https://github.com/apnex/vsp
 
 #### asciinema / asciicast
